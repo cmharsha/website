@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: cmharsha/project2:latest
+        image: cmharsha/proj2:latest
         ports:
         - containerPort: 80
